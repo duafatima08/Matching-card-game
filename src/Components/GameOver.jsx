@@ -1,5 +1,3 @@
-import React from "react";
-
 function GameOver({ moves, time, onRestart }) {
   return (
     <div

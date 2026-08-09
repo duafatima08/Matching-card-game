@@ -124,6 +124,7 @@ function App() {
           }}
         >
           {/* Left Side */}
+
           <div
             style={{
               flex: "1",
@@ -160,6 +161,7 @@ function App() {
           </div>
 
           {/* Right Side */}
+
           <div
             style={{
               flex: "1",
